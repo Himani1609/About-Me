@@ -1,0 +1,24 @@
+html,body{
+    margin: 0;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e1fcff;
+
+}
+nav{
+    padding: 20px 0 0 0;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.content{
+    text-align: center;
+    padding: 50px 0px;
+    margin-top: 100px;
+}
+footer{
+    text-align: center;
+    margin-top: 250px;
+}
